@@ -1,4 +1,4 @@
-q_dias = int(input("Digite quantos dias você dicou com o carro : "))
+q_dias = int(input("Digite quantos dias você ficou com o carro : "))
 q_km = float(input("Digite quantos Km Você andou : "))
 v_finaldias = q_dias * 60
 v_kms = q_km * 0.15
